@@ -1,9 +1,7 @@
 ---
 layout: post
 title:  "Hello, people"
-subtitle: "Post #1"
 author: "Akshay Elangovan"
-avatar: "images/authors/wferr.jpg"
 image: "images/spread.jpg"
 date:   2016-12-17 01:04:17
 ---
