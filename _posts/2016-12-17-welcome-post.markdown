@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Hello, people"
 subtitle: "Post #1"
 author: "Akshay Elangovan"

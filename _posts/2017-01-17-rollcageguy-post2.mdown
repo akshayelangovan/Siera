@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Being the Roll Cage Guy experience #2"
 subtitle: "Post #3"
 author: "Akshay Elangovan"
