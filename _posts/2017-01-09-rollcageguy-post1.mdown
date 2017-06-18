@@ -2,7 +2,7 @@
 layout: post
 title:  "Being the Roll Cage Guy experience #1"
 author: "Akshay Elangovan"
-image: "images/launch.jpg"
+image: "/images/launch.jpg"
 date:   2017-01-09 01:04:17
 ---
 

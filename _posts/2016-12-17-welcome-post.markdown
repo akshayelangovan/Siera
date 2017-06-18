@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello, people"
 author: "Akshay Elangovan"
-image: "images/spread.jpg"
+image: "/images/spread.jpg"
 date:   2016-12-17 01:04:17
 ---
 
