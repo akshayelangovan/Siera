@@ -6,7 +6,7 @@ image: /images/pic01.jpg
 ---
 Hosted on Github
 
-I would like to thank - [PranavChendur](pranavchendur.com) for giving me this awesome domain and his help with setting up the website.
+I would like to thank - [PranavChendur](http://pranavchendur.com/) for giving me this awesome domain and his help with setting up the website.
 
 ### Website Design
 - [HTML5up](http://html5up.net/)
