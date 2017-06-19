@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 image: /images/pic02.jpg
 ---
-
 Hi, this is Gibberich, my blog. My name is Akshay Elangovan and I'm presently an engineering student at VIT University.
 
 I initially wanted to do this to commit my spare time and use this as my outlet to the internet.
