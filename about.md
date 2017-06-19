@@ -5,8 +5,12 @@ permalink: /about/
 image: /images/pic02.jpg
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi, this is Gibberich, my blog. My name is Akshay Elangovan and I'm presently an engineering student at VIT University.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I initially wanted to do this to commit my spare time and use this as my outlet to the internet.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I like to talk about a lot of things starting from where we came from to where we are about to go.
+
+I consider myself to be a lot of things: Stevian, ambitious , hungry and foolish, aspiring inventor, amateur astronomer, physics lover, visionary, more of a dreamer, engineer
+
+If you'd like to contact me, you can mail me at <b>akshayelangovan@gmail.com</b>
