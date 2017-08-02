@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Lost but safe"
+author: "Akshay Elangovan"
+image: "/images/roam.jpg"
+date:   2017-08-02 11:53:13
+---
+Hey, you! How are you doing? I was reminded about a day from my past for some reason and thought I might as well share it with you guys.
+
+It was my first semester in University and we had to do projects for every subject. Me, being the optimistic ambitious jackass wanted to build a Reverse Osmosis system for 'Engineering Chemistry'. I still engage with such ambitious projects every semester but fail to deliver. Whilst the project required me to just demonstrate the working of reverse osmosis using membrane sheets, I misunderstood that I had to actually build a working model. I recall even coming up with a design for a prototype in my mind. The finals were nearing and it was time to complete these projects. After searching online, I resorted to travel to a RO Filter service centre to buy filters on a weekend. It was nearby, but at the time the city was new to me. I got down at the wrong bus stop and walked to the faulty GPS pointer on my phone under Chennai's hot sunshine. When I reached the pointer, it simply shifted to the next street. I was lost in a residential area with no signs of any businesses.
+
+I called the propreitor and he directed me to come to the next bus stop which was again a kilometer away. I had nothing my my own hooves to carry me. When I reached the place and we identified each other, the person first shook my hand congratulating me on finding him. He travelled there to meet with me from his house. He had everything I asked for with him and I traded it for cash, a lot of cash, not worth the project in hopes I would do something to land with a patent in RO design. I tol you I'm an ambitious jackass. So I explained why I need the stuff to him and he was ready to answer my doubts. He took me to his house. I was riding on the back of a motorcycle with a complete stranger to a place from where I dont know how to come back from. I was scared. Every minute, I played out escape routes in my head if the man went rouge. His house was on the first level amidst other houses. He invited me in and asked me to wait in the living room. His wife was home too. I was still planning escape routes. He brought out a couple of old filter systems, took 'em apart and started fromt he basics of how reverse osmosis works. It was educational, he explained every component of water filter systems and what would I require if I needed to build one. It was past noon and his wife prepared lunch. We had lunch together. While many would advice not to take consumables from strangers, I was perfectly safe. The couple was nice to me and even shared stories about their travels over lunch. I was in a friendly surrounding. After lunch, he gave me a couple of filter cannisters to experiment with and offered to drop me back at the bus stop.
+
+There are good people in this world. Maybe he helped me because I was just a student, but giving his time and effort to my benefit, that really is something. This is just one story of the million acts of kindness carried out by people everyday. Let go of vile thoughts, trust people and coexist helping others around you with their lives. We all are capable of kindness and trust me, sometimes you'll feel that it is synonymous with happiness.
+
+Spread the word! Peace!
