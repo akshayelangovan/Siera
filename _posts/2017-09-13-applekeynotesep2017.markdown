@@ -20,7 +20,7 @@ Next off, Tim introduces the [Apple Watch Series 3](https://www.apple.com/apple-
 ![Tim Cook](/images/66.jpg)   
 
 [Apple tv](https://www.apple.com/tv/)! 4K wasn't enough, you guys went ahead and gave other companies something to chase after. 4K HDR. Crisp and vibrant details. I'm leaving links to Apple's website all over. Feel free to head over.
-The [iPhone 8 and 8 plus](https://www.apple.com/iphone-8/), alright, now we're in business. Glass finish, okay, Disney-ish but i dig it. One highlight that was brought up was "most durable glass". Like GLASS... DURABLE... Read that twice in your mind dramatically. Then an aerospace grade aluminium band. Hmm, why not! It's not a phone that just looks and feels premium. It is premium. Wireless charging, portrait mode and a camera that uses machine learning, we need some time to even imagine what a smartphone from a future could do to beat that. By this time, I ran down to my friend's room to ask him about the bezel-less phone that was teased. I mean, it hasn't been unveiled yet.
+The [iPhone 8 and 8 plus](https://www.apple.com/iphone-8/), alright, now we're in business. Glass finish, okay, Disney-ish but i dig it. One highlight that was brought up was "most durable glass". Like GLASS... DURABLE... Read that twice in your mind dramatically. Then an aerospace grade aluminium band. Hmm, why not! It's not a phone that just looks and feels premium. It is premium. Wireless charging, portrait mode and a camera that uses machine learning, we need days to even imagine what a smartphone from a future could do to beat that. By this time, I ran down to my friend's room to ask him about the bezel-less phone that was teased. I mean, it hasn't been unveiled yet.
 
 ![Apple iPhone X](/images/iphonex.jpg)
 
