@@ -26,9 +26,9 @@ The [iPhone 8 and 8 plus](https://www.apple.com/iphone-8/), alright, now we're i
 
 My mistake, should have stuck with the monitor and seen it for myself. The [iPhone X](https://www.apple.com/iphone-x/)! It is pronounced iPhone Ten and not iPhone Ex. I'm not gonna write about the specs and the build. What I'm going to write about is why it is special. The front looks absolutely beautiful. Its something straight out of movie teasing futuristic mobile devices. No home button. This is actually bold. I see this as Apple's fearless move in bringing a revolution. This is what Apple used to be. When they brought icons, colourful computers, made a computer speak at a product launch, introduced the world to the iPod, to the iPhone, the Airpods. It breaks down conventional and shows us something new and exciting.
 
-![Steve Jobs Cool](/images/69.jpg)
-
 <h1>Quoting Sol LeWitt, "Don't worry about cool. Make your own uncool"</h1>
+
+![Steve Jobs Cool](/images/69.jpg)
 
 Just brilliant. If I may, <b>insanely great</b>. "I think Steve would've been proud of them", Tim said. I love this looking back and reflecting, what would've Steve did if he hadn't left us. That's what makes it special. It has Steve's touch in it. His drive to remove those ugly buttons, increase human interaction with his devices instead of a stylus and actual love for a product even before they have touched it. How would people know what they want if they haven't seen it yet? And guess what we want after we see. His vision is still a part of Apple's and he is still with us. I love it. <b>It's brilliant.</b>
 
