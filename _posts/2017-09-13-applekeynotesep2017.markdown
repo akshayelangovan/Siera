@@ -21,6 +21,6 @@ My mistake, should have stuck with the monitor and seen it for myself. The [iPho
 Just brilliant. If I may, <b>insanely great</b>. "I think Steve would've been proud of them", Tim said. I love this looking back and reflecting, what would've Steve did if he hadn't left us. That's what makes it special. It has Steve's touch in it. His drive to remove those ugly buttons, increase human interaction with his devices instead of a stylus and actual love for a product even before they have touched it. How would people know what they want if they haven't seen it yet? And guess what we want after we see. His vision is still a part of Apple's and he is still with us. I love it. <b>It's brilliant.</b>
 ![Tim Cook](/images/72.png)
 The Steve Jobs theatre offers an arena for hands on experience, delivering technology to the hands of people so that they can see how much detail has gone into the making of an Apple product. There's just so much love.
-PS: I almost forgot about Jonathan Ive. I just started smiling when I saw him in the ad. Oh and the videos that were shown were absolutely stunning. Make sure you check them out.
+PS: I almost forgot about [Jonathan Ive](https://www.youtube.com/watch?v=K4wEI5zhHB0). I just started smiling when I saw him in the ad. Oh and the videos that were shown were absolutely stunning. Make sure you check them out.
 ![Steve Jobs](/images/71.png)
 These words could be possibly biased, I'm a stevian.
