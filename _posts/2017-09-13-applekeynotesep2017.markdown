@@ -7,6 +7,8 @@ tags: apple iphone steve watch tv
 image: /images/65.png
 ---
 Well, I tuned in same as everyone to watch the [keynote presentation of September 2017](https://www.apple.com/apple-events/september-2017/) live streaming from the Steve Jobs Theatre. (Yes, the theatre is named after Steve Jobs).
+
+
 ![Steve Jobs Theatre](/images/68.png)
 Starting off with "Today at Apple",(that's when I started to watch, sorry if I missed something) it's a cool idea. It brings and connects people together. I love things which embraces humanity and the feeling that we give and take and find happiness in sharing. Even brilliant when technology does that. Asimov would have raised an eyebrow.
 ![Apple Watch](/images/iwatch.jpg)
