@@ -20,8 +20,6 @@ Remember the scene from Life of Pi where the boy decided to write the value of P
 
  A [youtube video by Numberphile](https://www.youtube.com/watch?v=0r3cEKZiLmg) printed one million digits of Pi on a paper and it was a mile long, but they could keep going miles and miles and the decimal would never stop. In a way, Pi tells us to keep going and never stop. So how do you express Pi without disregarding the infinite digits? Express it as a fraction, 22/7. There! Look, it takes just about the same space required to type 3.14. <b>22/7</b>
 
-![Numberphile](/images/number.jpg)
-
 So, I would like to nominate the 22nd of July to be Pi day. This should be an issue unless anyone writes a date in DD.MM.YYYY instead of DD/MM/YYYY. A fair reason why my nomination would go to waste is [this Wikipedia article](https://en.wikipedia.org/wiki/Proof_that_22/7_exceeds_%CF%80). Even 22/7 can't be used to express Pi because it is bigger than it. What a bummer! But atleast 22/7 is closer to Pi than 3.14. The percentage difference is 0.040249943. Okay, I've had enough of this. Is the 3rd of March known for anything else other than Pi? YES! 
 
 <h2>It's the birth anniversary of Albert Einstein.</h2>
