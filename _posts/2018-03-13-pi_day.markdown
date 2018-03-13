@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Pi day - A random thought"
+date:   2018-03-13 22:14:07
+categories: Blogpost
+tags: thoughts random
+image: /images/pi.jpg
+---
+It's been a while since I've opened the text editor to write something for a blog. And it feels good to be back. I just got back from dinner after work, took a bath, so I'm feel all refreshed as I type this post. [Deep breaths, crack knuckles] I'm gonna rant.
+
+The day 3/14 of every year is called Pi day because of its resemblence to Pi's value when it's rounded off to two precision points. However, I think it's not the best day to be named Pi day. Why? Oh boy, I've got reasons. Firstly, the number 3.14 is seen on the date only if it is written in the MM/DD/YYYY format(I sincerely hope this format dies), while every rational human on this planet is accustomed to the DD/MM/YYYY format. Imagine, if I got a bill saying that it is due by 3/4/2018, I would pay it before the third of April and not the fourth of March. In conversation, some would adapt MM/DD/YYYY format and that is why we have puns like March fourth/forth and "May the fourth/force be with you", but we would not stumble upon these puns in text. Secondly, 3.14 is not Pi. Pi is a value that is followed by infinite digits after that decimal point.
+
+![The value](/images/pi1.jpg)
+
+There is a percentage difference of 0.0506957383 between Pi and 3.14
+
+Remember the scene from Life of Pi where the boy decided to write the value of Pi on the board and kept writing until the school had to close for the day, he couldn't complete the decimal.
+
+![Life of Pi](/images/class.png)
+
+ A [youtube video by Numberphile](https://www.youtube.com/watch?v=0r3cEKZiLmg) printed one million digits of Pi on a paper and it was a mile long, but they could keep going miles and miles and the decimal would never stop. In a way, Pi tells us to keep going and never stop. So how do you express Pi without disregarding the infinite digits? Express it as a fraction, 22/7. There! Look, it takes just about the same space required to type 3.14. <b>22/7</b>
+
+![Numberphile](/images/number.png)
+
+So, I would like to nominate the 22nd of July to be Pi day. This should be an issue unless anyone writes a date in DD.MM.YYYY instead of DD/MM/YYYY. A fair reason why my nomination would go to waste is [this Wikipedia article](https://en.wikipedia.org/wiki/Proof_that_22/7_exceeds_%CF%80). Even 22/7 can't be used to express Pi because it is bigger than it. What a bummer! But atleast 22/7 is closer to Pi than 3.14. The percentage difference is 0.040249943. Okay, I've had enough of this. Is the 3rd of March known for anything else other than Pi? YES! 
+
+<h2>It's the birth anniversary of Albert Einstein.</h2>
+
+![Einstein](/images/einstein.jpg)
+
+I love Einstein and he inspired me a lot when I was a kid. One of his quotes that I took to heart was <b>"Imagination is more powerful than knowledge"</b>. Even thinking about him now fills me with a desire to learn more and think greater. To people who celebrate it, Happy Pi day. Peace out.
