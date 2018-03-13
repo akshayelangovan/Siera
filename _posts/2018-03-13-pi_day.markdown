@@ -6,7 +6,7 @@ categories: Blogpost
 tags: thoughts random
 image: /images/pi.jpg
 ---
-It's been a while since I've opened the text editor to write something for a blog. And it feels good to be back. I just got back from dinner after work, took a bath, so I'm feel all refreshed as I type this post. [Deep breaths, crack knuckles] I'm gonna rant.
+It's been a while since I've opened the text editor to write something for a blog. And it feels good to be back. I just got back from dinner after work, took a bath, so I feel all refreshed as I type this post. [Deep breaths, crack knuckles] It's the fourteenth of March and I have something to say.
 
 The day 3/14 of every year is called Pi day because of its resemblence to Pi's value when it's rounded off to two precision points. However, I think it's not the best day to be named Pi day. Why? Oh boy, I've got reasons. Firstly, the number 3.14 is seen on the date only if it is written in the MM/DD/YYYY format(I sincerely hope this format dies), while every rational human on this planet is accustomed to the DD/MM/YYYY format. Imagine, if I got a bill saying that it is due by 3/4/2018, I would pay it before the third of April and not the fourth of March. In conversation, some would adapt MM/DD/YYYY format and that is why we have puns like March fourth/forth and "May the fourth/force be with you", but we would not stumble upon these puns in text. Secondly, 3.14 is not Pi. Pi is a value that is followed by infinite digits after that decimal point.
 
